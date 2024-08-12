@@ -1,2 +1,4 @@
-# Descriptive-Statistics-
-During this part, we explore the data. We calculate basic statistics (mean, median, mode, variance) and we check for an outliers. All to understand more and to summarize the dataset.
+# Descriptive Statistics
+In this section, we explore the data by calculating basic statistics such as the mean, median, mode, and variance. We also check for any outliers. This helps us gain a deeper understanding of the dataset and provides a comprehensive summary.
+
+
